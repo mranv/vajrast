@@ -1,0 +1,25 @@
+[book]
+authors = ["Anubhav Gain"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Vajrast: Forging Unbreakable Code with Rust"
+
+[output.html]
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/mranv/vajrast"
+git-repository-icon = "fa-github"
+
+[output.html.playground]
+editable = true
+line-numbers = true
+
+[output.html.search]
+limit-results = 20
+use-boolean-and = true
+boost-title = 2
+boost-hierarchy = 2
+boost-paragraph = 1
+expand = true
+heading-split-level = 2
