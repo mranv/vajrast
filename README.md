@@ -2,7 +2,7 @@
 
 # Vajrast: Forging Unbreakable Code with Rust
 
-![Vajrast Logo](assets\Designer_1_-removebg-preview.png)
+![Vajrast Logo](assets/Designer_1_-removebg-preview.png)
 
 _A comprehensive guide to writing secure, robust, and efficient code using Rust_
 
